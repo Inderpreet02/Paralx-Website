@@ -30,12 +30,12 @@ body, html {
 
 .pimg2 {
 	background-image: url("second_img.jpg");
-	min-height: 400px;
+	min-height: 700px;
 }
 
 .pimg3 {
 	background-image: url("first_img.jpg");
-	min-height: 400px;
+	min-height: 700px;
 }
 
 
